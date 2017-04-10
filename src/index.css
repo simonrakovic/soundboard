@@ -11,5 +11,18 @@ body {
 }
 
 .row-title{
+  margin-top: 50px;
   text-align: left;
+}
+
+.row-buttons{
+  border-top:1px solid black;
+
+}
+
+.button{
+  margin-top: 20px;
+  height: 30px;
+  width: 50px;
+  line-height: 15px;
 }
